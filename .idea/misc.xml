@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (portfolio_staycation)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (portfolio_staycation)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (alx-backend-user-data)" project-jdk-type="Python SDK" />
 </project>
